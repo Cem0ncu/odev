@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.gluonhq.charm.glisten.control.Icon?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="499.0" prefWidth="811.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox prefHeight="499.0" prefWidth="118.0" style="-fx-background-color: #114aa6;">
+         <children>
+            <Button mnemonicParsing="false" prefHeight="33.0" prefWidth="118.0" text="Button">
+               <graphic>
+                  <Icon content="HELP_OUTLINE" />
+               </graphic></Button>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
